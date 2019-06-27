@@ -30,6 +30,7 @@ import { ScreenOrientation } from 'expo';
 - [`ScreenOrientation.getOrientationLockAsync()`](#screenorientationgetorientationlockasync)
 - [`ScreenOrientation.getPlatformOrientationLockAsync()`](#screenorientationgetplatformorientationlockasync)
 - [`ScreenOrientation.supportsOrientationLockAsync(orientationLock)`](#screenorientationsupportsorientationlockasyncorientationlock)
+- [`ScreenOrientation.addOrientationChangeListener()`](#screenorientationaddorientationchangelistenerlistener)
 - [`ScreenOrientation.removeOrientationChangeListeners()`](#screenorientationremoveorientationchangelisteners)
 - [`ScreenOrientation.removeOrientationChangeListener(subscription)`](#screenorientationremoveorientationchangelistenersubscription)
 
